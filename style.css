@@ -1,0 +1,135 @@
+/* *{
+    box-sizing: border-box;
+} */
+
+body{
+    background-color: #1e1e1e;
+    margin: 0;
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+
+
+/* .body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+[class*=square]{
+    width: 100px;
+    height: 100px;
+    background-color: #ccc;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    border-radius: 6px;
+
+}
+
+.circle{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: antiquewhite;
+
+
+}
+.first-square{
+    justify-content: center;
+}
+.second-square .{
+    justify-content: space-between;
+
+
+}
+
+.second-square .circle:last-child{
+    align-self: flex-end;
+
+} */
+
+/* .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-content: center;
+    column-gap: 15px;
+}
+
+.cub1{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    position: relative;
+    background-color: rgb(230, 187, 131);
+    border-radius: 8px;
+    margin: 10px;
+    padding: 15px;
+}
+.main-point{
+    background-color: black;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+
+}
+.point{
+    
+   top: 40%;
+   left: 40%;
+
+    
+}
+
+.point-1{
+    
+    top: 10px;
+    left: 10px;
+
+}
+
+.point-2{
+    
+    bottom: 10px;
+    right: 10px;
+    
+    
+
+}
+
+.point-4{
+   
+    top: 10px;
+    right: 10px;
+
+}
+ 
+
+.point-5{
+    
+    bottom: 10px;
+    left: 10px;
+
+}
+
+.point-6{
+    
+    top: 40%;
+    right: 10px;
+
+}
+
+.point-7{
+   
+    top: 40%;
+    left: 10px;
+
+} */
